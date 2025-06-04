@@ -1,3 +1,8 @@
 Archivo de la act 2
 Parrafo2 main
 Parrafo3 main
+
+Parrafo1 user2
+Parrafo2 user2
+Parrafo3 user2
+Parrafo1 user3
