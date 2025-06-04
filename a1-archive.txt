@@ -3,3 +3,5 @@ Parrafo 2 desde main
 
 Parrafo 1 user1
 Parrafo 2 user1
+Parrafo 1 user2
+Parrafo 2 user2
